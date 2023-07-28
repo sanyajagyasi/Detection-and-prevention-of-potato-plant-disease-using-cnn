@@ -33,11 +33,3 @@ The Potato Disease Classification Project is a useful machine learning project t
 
 
 
-
-## Authors
-
-- [Prakhar Jain](https://www.github.com/Prakharjain1211)
-- [Sahaj Makwana](https://www.github.com/sahaj-makwana)
-- [Snehal Singh Solanki](https://www.github.com/singhSnehal)
-
-
